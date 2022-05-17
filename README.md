@@ -1,2 +1,2 @@
 # sysadmin-cheatsheet
-A list of linux networking commands.
+A list of linux networking commands for learning purposes.
